@@ -26,6 +26,8 @@ Predict electricity consumption based on household and demographic data using ma
 
 ## 📁 Project Structure
 
+
+
 electricity_consumption_prediction/
 │
 ├── data/ # Dataset files
